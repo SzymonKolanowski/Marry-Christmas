@@ -6,7 +6,7 @@ namespace MarryChristmas
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("<arry Christmas ");
+			Console.WriteLine("Marry Christmas ");
 		}
 	}
 }
