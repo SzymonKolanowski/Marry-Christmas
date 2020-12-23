@@ -7,6 +7,7 @@ namespace MarryChristmas
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Marry Christmas 2020");
+			Console.WriteLine("thank you");
 		}
 	}
 }
